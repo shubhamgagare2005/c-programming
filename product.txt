@@ -1,0 +1,40 @@
+-------------------result------------------
+
+PRODUCT 1
+
+Product Name    :hp
+
+Product ID      :123
+
+Product Price   :10000
+
+Product Quantity:3
+
+PRODUCT 2
+
+Product Name    :dell
+
+Product ID      :456
+
+Product Price   :20000
+
+Product Quantity:4
+
+PRODUCT 3
+
+Product Name    :oppo
+
+Product ID      :567
+
+Product Price   :30000
+
+Product Quantity:5
+
+
+Product Total    :260000.00
+
+Product Disper   :10.00
+
+Product Dis_amt  :26000.00
+
+Product Pay_amt  :234000.00

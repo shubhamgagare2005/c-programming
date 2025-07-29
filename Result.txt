@@ -1,0 +1,14 @@
+
+-----------Result------------
+-----------Result------------
+Roll Number                : 11
+Name                      : 6422184
+Subject 1                : java
+Marks of Suject1         : 96.000000
+Subject 2               : c
+Marks of Suject2         : 98.000000
+Subject 3               : python
+Marks of Suject3         : 97.000000
+Total                    :291.000000
+avg                      :97.000000
+Grade                    :F
